@@ -67,6 +67,6 @@ cd AsianKitchensMenu
 
 ## 👥 İletişim
 
-Proje Sahibi - [@github_username](https://github.com/BRTCLK)
+Proje Sahibi - [Berat Çelik](https://github.com/BRTCLK)
 
 Proje Linki: [https://github.com/BRTCLK/AsianKitchensMenu](https://github.com/BRTCLK/AsianKitchensMenu)
